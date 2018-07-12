@@ -1,0 +1,1566 @@
+
+2013-10-07 17:05:17 [INFO ] [main.Main.main(Main.java:16)] 
+parametro: 100
+
+2013-10-07 17:05:17 [INFO ] [main.Main.main(Main.java:16)] 
+parametro: 100
+
+2013-10-07 17:06:31 [INFO ] [main.Main.main(Main.java:16)] 
+parametro: 100
+
+2013-10-07 17:06:31 [INFO ] [main.Main.main(Main.java:16)] 
+parametro: 100
+
+2013-10-07 17:06:50 [INFO ] [main.Main.main(Main.java:16)] 
+logger parametro: 100
+
+2013-10-07 17:06:50 [INFO ] [main.Main.main(Main.java:16)] 
+logger parametro: 100
+
+2013-10-07 17:07:34 [INFO ] [main.Main.main(Main.java:16)] 
+logger parametro: 100
+
+2013-10-07 17:07:34 [INFO ] [main.Main.main(Main.java:16)] 
+logger parametro: 100
+
+2013-10-07 17:09:39 [INFO ] [main.Main.main(Main.java:16)] 
+logger parametro: 100
+
+2013-10-07 17:09:39 [INFO ] [main.Main.main(Main.java:16)] 
+logger parametro: 100
+
+2013-10-07 17:11:41 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:17)] 
+logger parametro: 100
+
+2013-10-07 17:11:41 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:17)] 
+logger parametro: 100
+
+2013-12-11 10:22:53 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:17)] 
+13560
+
+2013-12-11 10:22:53 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:17)] 
+13560
+
+2013-12-11 10:56:30 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:17)] 
+1356.0
+
+2013-12-11 10:56:30 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:17)] 
+1356.0
+
+2013-12-11 10:56:43 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:17)] 
+1356
+
+2013-12-11 10:56:43 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:17)] 
+1356
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:16)] 
+Primer prueba, cadena simple...
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:16)] 
+Primer prueba, cadena simple...
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:55 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:18)] 
+---------------separador------------------
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:18)] 
+---------------separador------------------
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:20)] 
+Segunda prueba, cadena con un enter...
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:20)] 
+Segunda prueba, cadena con un enter...
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:22)] 
+---------------separador------------------
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:22)] 
+---------------separador------------------
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:24)] 
+Tercer prueba, cadena con dos enter...
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:24)] 
+Tercer prueba, cadena con dos enter...
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:26)] 
+---------------separador------------------
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:26)] 
+---------------separador------------------
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:28)] 
+Cuarta prueba, enter rush...
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:28)] 
+Cuarta prueba, enter rush...
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: 
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:44)] 
+Imprimo ultima linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:44)] 
+Imprimo ultima linea: 
+
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:30)] 
+---------------separador------------------
+
+2014-02-04 15:25:56 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:30)] 
+---------------separador------------------
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:16)] 
+Primer prueba, cadena simple...
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:16)] 
+Primer prueba, cadena simple...
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:44)] 
+Imprimo ultima linea: EL PREMIO COMIENZA Y TERMINA CON LOS MISMOS CARACTERES
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:44)] 
+Imprimo ultima linea: EL PREMIO COMIENZA Y TERMINA CON LOS MISMOS CARACTERES
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:18)] 
+---------------separador------------------
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:18)] 
+---------------separador------------------
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:20)] 
+Segunda prueba, cadena con un enter...
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:20)] 
+Segunda prueba, cadena con un enter...
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: EL PREMIO COMIENZA Y TERMINA
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: EL PREMIO COMIENZA Y TERMINA
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:44)] 
+Imprimo ultima linea:  CON LOS MISMOS CARACTERES
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:44)] 
+Imprimo ultima linea:  CON LOS MISMOS CARACTERES
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:22)] 
+---------------separador------------------
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:22)] 
+---------------separador------------------
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:24)] 
+Tercer prueba, cadena con dos enter...
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:24)] 
+Tercer prueba, cadena con dos enter...
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: EL PREMIO COMIENZA
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: EL PREMIO COMIENZA
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  Y TERMINA CON LOS
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  Y TERMINA CON LOS
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:44)] 
+Imprimo ultima linea:  MISMOS CARACTERES
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:44)] 
+Imprimo ultima linea:  MISMOS CARACTERES
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:26)] 
+---------------separador------------------
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:26)] 
+---------------separador------------------
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:28)] 
+Cuarta prueba, enter rush...
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:28)] 
+Cuarta prueba, enter rush...
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: EL
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea: EL
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  PREMIO
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  PREMIO
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  COMIENZA
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  COMIENZA
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  Y
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  Y
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  TERMINA
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  TERMINA
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  CON
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  CON
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  LOS
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  LOS
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  MISMOS
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  MISMOS
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  CARACTERES
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.separarCadenas(Main.java:39)] 
+Imprimo linea:  CARACTERES
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:30)] 
+---------------separador------------------
+
+2014-02-04 15:26:31 [INFO ] [com.ggc.log4jtest.main.Main.main(Main.java:30)] 
+---------------separador------------------
